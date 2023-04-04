@@ -1,7 +1,13 @@
 # Canvas AI
 This repository contains code for a simple web application that lets you draw and animate a web canvas element using ChatGPT or other openai models.
 
+Quick demo:
+
 <img src="assets/demo1.webp" width="70%">
+
+You can even use it to create a game:
+
+<img src="assets/demo2.webp" width="70%">
 
 ## Setup
 You need node.js and npm: https://nodejs.org/
